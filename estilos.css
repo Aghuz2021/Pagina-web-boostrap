@@ -1,0 +1,37 @@
+
+.nav-item:hover{
+    background-color: rgba(97, 100, 100, 0.781);
+    
+}
+.a-logo{
+    font-size: 30px;
+    font-weight: bold;
+}
+ .imagen{
+    height: 500px;
+    width: 100%;
+    object-fit:cover;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+}
+.info-portada{
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+.card-edit{
+    margin-bottom: 25px;
+    padding:0px;
+    padding-bottom: 20px;
+  
+   
+  
+}
+.button-form{
+margin-bottom: 20px;
+}
+.fab{
+ margin-left: 30px;
+ font-size: 30px;
+}
